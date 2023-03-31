@@ -1,4 +1,4 @@
-module github.com/wardviaene/golang-for-devops-course/aws-ec2
+module github.com/mafairnet/golang-para-devops/aws-s3
 
 go 1.18
 

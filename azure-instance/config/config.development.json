@@ -1,0 +1,12 @@
+{
+    "SubscriptionID":"000000-000000-000000-000000-000000",
+    "VmName":"golang-azure-vm",
+    "DefaultLocation":"westus",
+    "AdminUsername":"admin-azure",
+    "ImageOffer":"0001-com-ubuntu-server-focal",
+    "ImagePublisher":"canonical",
+    "ImageSKU":"20_04-lts-gen2",
+    "ImageVersion":"latest",
+    "NicResourceGroupName":"golang-azure-nic",
+    "VmSizeAndType":"Standard_B1s"
+}
