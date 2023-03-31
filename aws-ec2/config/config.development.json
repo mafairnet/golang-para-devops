@@ -1,0 +1,7 @@
+{
+    "DefaulRegion" : "us-east-1",
+    "KeyFileName" : "go-aws-ec2",
+    "ImageName": "ubuntu/images/hvm-ssd/ubuntu-focal-20.04-amd64-server-*",
+    "ImageVirtualizationType": "hvm",
+    "ImageOwner":"099720109477"
+}
